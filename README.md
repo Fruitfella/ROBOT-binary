@@ -122,6 +122,12 @@ _"Number of list" is for how many candles are count on calculation, its better t
 | Example : purchase rise if the current price is higher than WMA |
 | ![untitled](https://user-images.githubusercontent.com/26277327/30519673-1928dcc8-9bc6-11e7-820b-9443f1f79ba4.png) |
 
+| <a href="https://gist.githubusercontent.com/Fruitfella/c44229bf8a8987dc890c870276363c25/raw/0fbe983445fa39b2074be8aeb51e26db0d1e2bb7/FRUITFELLA_CROSS-Line.xml">FRUITFELLA's CROSS-Lines</a> |
+|---|
+| this indicator check a crossing between 2 lines (indicators), input data must be in form of "list" or "array" |
+| Example : purchase rise when the price crossing up EMA array 10 and purchase fall when crossing down |
+| ![f-cross](https://user-images.githubusercontent.com/26277327/36071563-5d420098-0f42-11e8-840d-9b9139a76b68.PNG) |
+
 ---
 
 ## TICK ANALYSIS
