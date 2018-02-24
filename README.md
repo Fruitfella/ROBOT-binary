@@ -134,6 +134,13 @@ _"Number of list" is for how many candles are count on calculation, its better t
 | Example : purchase rise when the price is higher than the highest candle in 3 previous candles |
 | ![capture](https://user-images.githubusercontent.com/26277327/36623495-d4b02926-1937-11e8-9742-bb2c36d46c20.PNG) |
 
+| <a href="https://gist.githubusercontent.com/Fruitfella/f40a7255dd059ebbc08fd8e8d76f6826/raw/07419df119aeb58085364c6f72223f5ca804081b/FRUITFELLA_HullMA.xml">FRUITFELLA's Hull Moving Averages</a> |
+|---|
+| this is Hull Moving Averages indicator, you know what it is right? |
+| note : you'll also get WMA _(the base for Hull MA)_ from this tools, you can just ignore it |
+| Example : purchase rise when the price is higher than Hull MA |
+| ![capture](https://user-images.githubusercontent.com/26277327/36625532-e8afa480-1953-11e8-93de-7083536b184d.PNG) |
+
 ---
 
 ## TICK ANALYSIS
