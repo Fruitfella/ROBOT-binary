@@ -128,6 +128,12 @@ _"Number of list" is for how many candles are count on calculation, its better t
 | Example : purchase rise when the price crossing up EMA array 10 and purchase fall when crossing down |
 | ![f-cross](https://user-images.githubusercontent.com/26277327/36071563-5d420098-0f42-11e8-840d-9b9139a76b68.PNG) |
 
+| <a href="https://gist.githubusercontent.com/Fruitfella/2409ab44b8f8b842f589d3bfb5774249/raw/1cc5544e43d28efe91e7f13b536d2c5e24742a93/FRUITFELLA_Highest-Lowest.xml">FRUITFELLA's Highest-Lowest Candle</a> |
+|---|
+| this indicator check the highest and the lowest candle in given period, started from the previous candle _(ignores the current candle)_ |
+| Example : purchase rise when the price is higher than the highest candle in 3 previous candles |
+| ![capture](https://user-images.githubusercontent.com/26277327/36623495-d4b02926-1937-11e8-9742-bb2c36d46c20.PNG) |
+
 ---
 
 ## TICK ANALYSIS
