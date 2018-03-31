@@ -157,7 +157,7 @@ _"Number of list" is for how many candles are count on calculation, its better t
 | This tool create a list of Last Digits from x recent ticks. It also check the most and the least frequent Last Digit |
 | ![capture](https://user-images.githubusercontent.com/26277327/30246927-9da7a87a-9631-11e7-9f09-da83191f0bff.png) |
 
-| <a href="https://gist.githubusercontent.com/Fruitfella/ab019eedc64c2c525adfcc9900b99413/raw/9b42a328f2f8bc0706af1561f27ef9b2773a8f4f/FRUITFELLA's_LD_Analyzer_ver.2.0.xml">FRUITFELLA's Last Digit Analyzer Ver.2.0</a> |
+| <a href="https://gist.githubusercontent.com/Fruitfella/ab019eedc64c2c525adfcc9900b99413/raw/abd0050418294f21e90e3993f6a1e47a316681f3/FRUITFELLA's_LD_Analyzer_ver.2.0.xml">FRUITFELLA's Last Digit Analyzer Ver.2.0</a> |
 |---|
 | Now that there is **`Last Digit List`** block, things are easier :) |
 | ![untitled](https://user-images.githubusercontent.com/26277327/31042369-65953fac-a5d0-11e7-8122-20ee76babbc4.png) |
